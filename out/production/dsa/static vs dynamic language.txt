@@ -1,0 +1,21 @@
+static vs dynamic language
+
+name="hi" -----string
+roll=45 -----num
+gpa = 4.4 ------float
+
+---so if the variable is fixed while its compiling then its static. and it needed to be declared before compiling or else it will throw a error.
+---it will give error while compiling.
+---it is 
+
+
+static:
+
+-
+
+
+
+
+
+
+dynamic:
